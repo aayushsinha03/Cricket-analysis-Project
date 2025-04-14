@@ -1,3 +1,2 @@
-Project objective 
-
+##Project objective 
 The objective of this project is to perform an end-to-end data analysis of T20 World Cup cricket data with the goal of identifying the best-performing players based on key performance metrics. Using Python, over 500,000+ match records were extracted, cleaned, and analyzed to derive meaningful insights. The project integrates advanced statistical analysis with interactive Power BI dashboards to support player selection, evaluate team performance, and uncover strategic patterns. By combining data engineering and business intelligence, the project enables more accurate, data-driven decision-making in cricket analytics.
