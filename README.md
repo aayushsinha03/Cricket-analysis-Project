@@ -46,6 +46,35 @@ Slicers for filtering by stage (Qualifier/Super 12), player name, and role
 Clean, dark-themed layout for better contrast and readability
 #### Dashboard Preview:
 This dashboard empowers analysts and fans to identify impactful players, uncover strategic trends, and make data-informed selections for the best playing XI
+### Key Insights
+Finishers (Stoinis, Maxwell) excelled with strike rates above 160.
+
+Sikandar Raza was a strong all-rounder.
+
+Pandya showed strong bowling despite a lower strike rate.
+
+Bowling strike rate and economy predicted match outcomes better than wickets.
+
+The Best XI matched teams that reached later stages.
+
+Teams with balanced batting roles won more often.
+### Technologies Used 
+Programming Languages: Python
+
+Libraries: pandas, BeautifulSoup
+
+Data Visualization: Power BI
+
+Web Scraping: requests, BeautifulSoup
+
+IDE: Jupyter Notebook
+
+Data Storage: CSV (for cleaned data)
+
+Tools: Power Query (for data transformation in Power BI)
+
+
+
 
 
 
