@@ -27,6 +27,25 @@ Imported cleaned CSVs into Power BI and refined them using Power Query.
 Established relationships between tables (players, teams, matches) for dynamic filtering.
 
 Final dataset prepared for advanced analysis and interactive dashboarding.
+### DashBoard Building
+An interactive Power BI dashboard was created to explore and visualize performance metrics from the T20 World Cup 2022 dataset.
+Role-based player analysis: Power Hitters, Anchors, Finishers, All Rounders, and Specialist Fast Bowlers
+
+KPIs for each role including:
+
+Batting Average, Strike Rate, Economy, Wickets, and Bowling Strike Rate
+
+Dynamic visuals like:
+
+Line charts for batting & bowling trends
+
+Bubble chart to compare Strike Rate vs Batting Average
+
+Slicers for filtering by stage (Qualifier/Super 12), player name, and role
+
+Clean, dark-themed layout for better contrast and readability
+#### Dashboard Preview:
+This dashboard empowers analysts and fans to identify impactful players, uncover strategic trends, and make data-informed selections for the best playing XI
 
 
 
