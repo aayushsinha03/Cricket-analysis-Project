@@ -74,7 +74,8 @@ Data Storage: CSV (for cleaned data)
 Tools: Power Query (for data transformation in Power BI)
 
 
-"C:\Users\Lenovo\OneDrive\Pictures\Screenshots\Screenshot 2025-04-30 002751.png"
+![Screenshot 2025-04-30 002751](https://github.com/user-attachments/assets/18ce6c84-44a6-4612-b80c-6e13d63ac3ed)
+
 
 
 
